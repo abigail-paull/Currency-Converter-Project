@@ -9,6 +9,8 @@ Currently, two official plugins are available:
 
 
 
+
+
 Build A Currency Converter in React JS | Best Beginner React JS Project
 
-![My Image](my-project/My Currency Converter.PNG)
+
