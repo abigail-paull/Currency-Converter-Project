@@ -12,8 +12,7 @@ Currently, two official plugins are available:
 
 
 Build A Currency Converter in React JS | Best Beginner React JS Project
-
-![project screenshot](https://github.com/abigail-paull/Currency-Converter-Project/upload/main)
+![](c:\Users\user\Desktop\Note Book\My Currency Converter.PNG)
 
 
 Are you new to React JS and looking for a project to enhance your skills? Building a currency converter using React JS and CSS is an excellent way to do just that. This project reinforces fundamental concepts like components, state management, and API integration, while also providing a practical and rewarding application.
