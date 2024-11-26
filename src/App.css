@@ -10,7 +10,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: url("bmg.png") #08085E no-repeat center;
+  background: url("") #08085E no-repeat center;
 }
 #root {
     width: 100%;
