@@ -14,7 +14,7 @@ import "./LightMode.css";
     localStorage.setItem('theme', newMode ? 'light' : 'dark');
   };
 
-  // Load saved theme from localStorage on component mount
+  // Load saved theme 
   useEffect(() => {
     const savedTheme = localStorage.getItem('theme') || 'light';
     const isLight = savedTheme === 'light';
