@@ -16,7 +16,7 @@ function CurrencyConverter() {
 
   // Function to get the exchange rate from the API
   const getExchangeRate = async () => {
-    const API_KEY = import.meta.env.VITE_API_KEY;
+    const API_KEY = '000b608a4e8fc919bf4bd55a';
     const API_URL = `https://v6.exchangerate-api.com/v6/${API_KEY}/pair/${fromCurrency}/${ToCurrency}`;
 
     setIsLoading(true);
