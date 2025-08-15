@@ -112,6 +112,9 @@
 
 
 
+
+
+
 import { useEffect, useState } from 'react';
 import CurrencySelect from './CurrencySelect';
 
@@ -246,24 +249,6 @@ function CurrencyConverter() {
 }
 
 export default CurrencyConverter;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
